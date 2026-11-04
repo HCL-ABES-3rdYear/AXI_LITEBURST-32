@@ -8,7 +8,7 @@ The design is developed using AMD/Xilinx Vivado. The block diagram below illustr
 
 ## Block Diagram
 
-![AXI-LiteBurst-32 Block Diagram](screenshots/Block_Diagram.png)
+![AXI-LiteBurst-32 Block Diagram](screenshots/Block_Diagram)
 
 ## Key Features
 
